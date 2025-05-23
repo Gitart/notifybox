@@ -22,7 +22,7 @@
 
 ## Parameters
 ```js
-NotiBox.show(Title, Description, type, time_show);
+NotiBox.show(Title, Description, Type, Time_show);
 ```
 
 ## Types 
