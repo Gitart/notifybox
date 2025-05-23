@@ -2,8 +2,12 @@
 
 ## Sumple notify box library
 
+
+
+![image](https://github.com/user-attachments/assets/ae122ede-2b10-40c9-b60c-1de7ab0fd50c)
+
 ## Connect
-```
+```js
 <script src="notifybox.js" ></script>
 ```
 
