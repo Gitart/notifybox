@@ -19,4 +19,11 @@
  NotiBox.show("Внимание", "Будь осторожен", "warning", 8000);
 ```
 
+## Parameters
+```js
+NotiBox.show(Title, Description, type, time_show);
+```
+
+
+
 
