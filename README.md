@@ -8,7 +8,7 @@
 
 ## Connect
 ```js
-<script src="notifybox.js" ></script>
+<script src="notifybox.js"></script>
 ```
 
 ## Use
