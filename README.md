@@ -3,8 +3,9 @@
 ## Sumple notify box library
 
 
+![image](https://github.com/user-attachments/assets/8752986f-070d-4a6d-b386-745c9a07f690)
 
-![image](https://github.com/user-attachments/assets/ae122ede-2b10-40c9-b60c-1de7ab0fd50c)
+
 
 ## Connect
 ```js
