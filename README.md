@@ -1,4 +1,4 @@
-# NOTIFYBOX
+# 🔔 NOTIFYBOX
 
 ## Sumple notify box library
 
