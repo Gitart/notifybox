@@ -24,6 +24,14 @@
 NotiBox.show(Title, Description, type, time_show);
 ```
 
+## Types 
+* success - green border
+* error - red border
+* info - blue border
+* warning - yellow border
+
+  
+
 
 
 
